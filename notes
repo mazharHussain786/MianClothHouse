@@ -1,0 +1,16 @@
+CLOUD PICS 
+EMAIL VERIFICATION 
+TRANSCATION BASED WORK (DONE)
+meilisearch (will use for searching documents)
+API THROLTLING
+CRON JOBS (PENDING)
+
+
+
+
+
+SAFE ASSIGNMENT OPERRATOR (PENDING) ?=
+for i in {1..1000}; do
+  curl http://localhost:9000/
+  echo
+done

@@ -1,0 +1,9 @@
+MEILI_APIKEY=aSampleMasterKey
+MEILI_HOSTKEY=http://localhost:7700
+cloudSecret
+PRESET=
+JWT_SECRET=
+PORT=9000
+cloudName=
+cloudApiKey=
+mongo_uri=
